@@ -45,8 +45,9 @@ if __name__ == '__main__':
         navgrukul_db_dump[id] = {}
         navgrukul_db_dump[id]['Name'] = row['Name']['title'][0]['plain_text']
         # navgrukul_db_dump[id]['Skills'] = list(map(lambda x: x['name'], row['Skills']['multi_select']))
-        # navgrukul_db_dump[id]['Association'] = row['Association']['select']['name']
-
+        navgrukul_db_dump[id]['Skills'] = list(map(lambda x: x['name'], row['Area of expertise/skills']['multi_select'] if ("Area of expertise/skills") in row else []))
+        navgrukul_db_dump[id]['Association'] = row['Association']['select']['name'] if ('Association') in row else None
+        
     # Step 3. Dump data to tmp/navgurukul_testing.json
     with open('tmp/navgurkul_testing.json', 'w+') as json_file:
         json.dump(navgrukul_db_dump, json_file, indent=2)
