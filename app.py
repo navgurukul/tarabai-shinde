@@ -44,8 +44,8 @@ if __name__ == '__main__':
         row = row['properties']
         navgrukul_db_dump[id] = {}
         navgrukul_db_dump[id]['Name'] = row['Name']['title'][0]['plain_text']
-        navgrukul_db_dump[id]['Skills'] = list(map(lambda x: x['name'], row['Skills']['multi_select']))
-        navgrukul_db_dump[id]['Association'] = row['Association']['select']['name']
+        # navgrukul_db_dump[id]['Skills'] = list(map(lambda x: x['name'], row['Skills']['multi_select']))
+        # navgrukul_db_dump[id]['Association'] = row['Association']['select']['name']
 
     # Step 3. Dump data to tmp/navgurukul_testing.json
     with open('tmp/navgurkul_testing.json', 'w+') as json_file:
