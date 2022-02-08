@@ -6,7 +6,7 @@ name: Update Notion Data
 on:
   schedule:
     # every 6 hours
-    - cron: "*/1 * * * *"
+    - cron: "*/10 * * * *"
   push:
     branches: [ main ]
   pull_request:
