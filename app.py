@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 import requests
 import os
 import json
-from pprint import pprint
 
 '''
 Return : records    : Rows of the navgurkul database in Notion
@@ -89,11 +88,14 @@ def get_data_from_notion_db(DB_ID, file_name):
         json.dump(navgrukul_db_dump, json_file, indent=2)
 
 if __name__ == '__main__':
-    load_dotenv()
-    NOTION_TOKEN = os.environ.get('NOTION_TOKEN')
-    NOTION_VERSION = os.environ.get('NOTION_VERSION')
-    NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
-    NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
-    get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
-#     get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
-
+    try:
+        load_dotenv()
+        NOTION_TOKEN = os.environ.get('NOTION_TOKEN')
+        NOTION_VERSION = os.environ.get('NOTION_VERSION')
+        NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
+        NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
+        print(NOTION_TOKEN, NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS)
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
+    except Exception as e:
+        print("Got Error In Your Code: ", e)
