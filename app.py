@@ -95,5 +95,5 @@ if __name__ == '__main__':
     NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
     NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
     get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
-    get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
+#     get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
 
