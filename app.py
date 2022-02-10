@@ -8,15 +8,15 @@ from pprint import pprint
 Return : records    : Rows of the navgurkul database in Notion
                     : {properties : field : {}}
 '''
-def get_navgurkul_records():
-    all_records_resp = requests.post( f'https://api.notion.com/v1/databases/{NAVGURUKUL_DB_ID}/query', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
+def get_navgurkul_records(DB_ID):
+    all_records_resp = requests.post( f'https://api.notion.com/v1/databases/{DB_ID}/query', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
     if all_records_resp.status_code == 200 :
         return all_records_resp.json()
     else :
         return {'Error' : all_records_resp.headers}
 
-def get_notion_fields():
-    all_fields = requests.get( f'https://api.notion.com/v1/databases/{NAVGURUKUL_DB_ID}', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
+def get_notion_fields(DB_ID):
+    all_fields = requests.get( f'https://api.notion.com/v1/databases/{DB_ID}', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
     fields = {}
     for row in all_fields.json()['properties']:
         fields[row] = None
@@ -43,6 +43,8 @@ def format_row(row, page_fields):
             result[r] = row[r]['rich_text'][0]['plain_text'] if len(row[r]['rich_text']) > 0 else None
         elif row[r]['type'] == "files":
             result[r] = row[r]['files'][0]['file']['url'] if len(row[r]['files']) > 0 else None
+        elif row[r]['type'] == 'created_time':
+            result[r] = row[r]['created_time'] if ['created_time'] else None
     return result
 
 def formate_paragraph(id):
@@ -53,12 +55,8 @@ def formate_paragraph(id):
             content.append(block['paragraph']['text'][0]['plain_text'] if len(block['paragraph']['text']) > 0 else '\n')
     return content
 
-if __name__ == '__main__':
-    load_dotenv()
-    NOTION_TOKEN = os.environ.get('NOTION_TOKEN')
-    NOTION_VERSION = os.environ.get('NOTION_VERSION')
-    NAVGURUKUL_DB_ID = os.environ.get('NAVGURUKUL_DB_ID')
-    page_fields = get_notion_fields()
+def get_data_from_notion_db(DB_ID, file_name):
+    page_fields = get_notion_fields(DB_ID)
 
     '''
     Steps -
@@ -71,7 +69,7 @@ if __name__ == '__main__':
     '''
 
     # Step 0. Get the data
-    navgurkul_res = get_navgurkul_records()
+    navgurkul_res = get_navgurkul_records(DB_ID)
     
     # Step 1. Parse the data. Currently, only two columns => {name, tag}
     '''
@@ -87,5 +85,15 @@ if __name__ == '__main__':
         navgrukul_db_dump[id] = row_data
 
     # Step 3. Dump data to tmp/navgurukul_testing.json
-    with open('tmp/navgurkul_testing.json', 'w+') as json_file:
+    with open(f'tmp/{file_name.lower()}.json', 'w+') as json_file:
         json.dump(navgrukul_db_dump, json_file, indent=2)
+
+if __name__ == '__main__':
+    load_dotenv()
+    NOTION_TOKEN = os.environ.get('NOTION_TOKEN')
+    NOTION_VERSION = os.environ.get('NOTION_VERSION')
+    NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
+    NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
+    get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
+    get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
+
