@@ -36,4 +36,5 @@ jobs:
       env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_VERSION: ${{ secrets.NOTION_VERSION }}
-          NAVGURUKUL_DB_ID: ${{ secrets.NAVGURUKUL_DB_ID }}
+          NAVGURUKUL_DB_ID_MERAKI_TEAM: ${{ secrets.NAVGURUKUL_DB_ID_MERAKI_TEAM }}
+          NAVGURUKUL_DB_ID_PARTNERS: ${{ secrets.NAVGURUKUL_DB_ID_PARTNERS }}
