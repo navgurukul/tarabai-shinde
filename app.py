@@ -40,6 +40,9 @@ def format_row(row, page_fields):
             result[r] = row[r]['select']['name']
         elif row[r]['type'] == "rich_text":
             result[r] = row[r]['rich_text'][0]['plain_text'] if len(row[r]['rich_text']) > 0 else None
+        ## for linkedIn and Twitter (if type = url)
+        elif row[r]['type'] == "url":
+            result[r] = row[r]['url']
         elif row[r]['type'] == "files":
             result[r] = row[r]['files'][0]['file']['url'] if len(row[r]['files']) > 0 else None
         elif row[r]['type'] == 'created_time':
@@ -94,8 +97,22 @@ if __name__ == '__main__':
         NOTION_VERSION = os.environ.get('NOTION_VERSION')
         NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
         NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
-        print(NOTION_TOKEN, NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS)
+        NAVGURUKUL_DB_ID_NG_TEAM = os.environ.get('NAVGURUKUL_DB_ID_NG_TEAM')
+        NAVGURUKUL_DB_ID_ALUMNI = os.environ.get('NAVGURUKUL_DB_ID_ALUMNI')
+        NAVGURUKUL_DB_ID_SUPPORTERS = os.environ.get('NAVGURUKUL_DB_ID_SUPPORTERS')
+        NAVGURUKUL_DB_ID_GALLERY = os.environ.get('NAVGURUKUL_DB_ID_GALLERY')
+        NAVGURUKUL_DB_ID_MEDIA = os.environ.get('NAVGURUKUL_DB_ID_MEDIA')
+        # NAVGURUKUL_DB_ID_PROJECTS = os.environ.get('NAVGURUKUL_DB_ID_PROJECTS')
+
+        print(NOTION_TOKEN, NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS, NAVGURUKUL_DB_ID_NG_TEAM)
         get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
         get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_NG_TEAM, "ng_team")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_ALUMNI, "alumni")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_SUPPORTERS, "supporters")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_GALLERY, "gallery")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_MEDIA, "media")
+        # get_data_from_notion_db(NAVGURUKUL_DB_ID_PROJECTS, "projects")
+
     except Exception as e:
         print("Got Error In Your Code: ", e)
