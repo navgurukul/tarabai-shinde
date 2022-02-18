@@ -102,7 +102,7 @@ if __name__ == '__main__':
         NAVGURUKUL_DB_ID_SUPPORTERS = os.environ.get('NAVGURUKUL_DB_ID_SUPPORTERS')
         NAVGURUKUL_DB_ID_GALLERY = os.environ.get('NAVGURUKUL_DB_ID_GALLERY')
         NAVGURUKUL_DB_ID_MEDIA = os.environ.get('NAVGURUKUL_DB_ID_MEDIA')
-        # NAVGURUKUL_DB_ID_PROJECTS = os.environ.get('NAVGURUKUL_DB_ID_PROJECTS')
+        NAVGURUKUL_DB_ID_PROJECTS = os.environ.get('NAVGURUKUL_DB_ID_PROJECTS')
 
         print(NOTION_TOKEN, NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS, NAVGURUKUL_DB_ID_NG_TEAM)
         get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
@@ -112,7 +112,7 @@ if __name__ == '__main__':
         get_data_from_notion_db(NAVGURUKUL_DB_ID_SUPPORTERS, "supporters")
         get_data_from_notion_db(NAVGURUKUL_DB_ID_GALLERY, "gallery")
         get_data_from_notion_db(NAVGURUKUL_DB_ID_MEDIA, "media")
-        # get_data_from_notion_db(NAVGURUKUL_DB_ID_PROJECTS, "projects")
+        get_data_from_notion_db(NAVGURUKUL_DB_ID_PROJECTS, "projects")
 
     except Exception as e:
         print("Got Error In Your Code: ", e)
