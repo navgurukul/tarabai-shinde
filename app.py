@@ -26,7 +26,7 @@ def format_row(row, page_fields):
     result = page_fields.copy()
     for r in row:
         if row[r]['type'] == "title":
-            result[r] = row[r]['title'][0]['text']['content']
+            result[r] = row[r]['title'][0]['text']['content'] if len(row[r]['title'])>0 else ""
         elif row[r]['type'] == "email":
             result[r] = row[r]['email']
         elif row[r]['type'] == "phone_number":
