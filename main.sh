@@ -17,7 +17,8 @@ python app.py
 
 git checkout "$gh_pages_branch"
 
-cp tmp/navgurkul_testing.json data
+# cp tmp/meraki_team.json data
+cp tmp/* data
 rm -r tmp/
 
 git add .
