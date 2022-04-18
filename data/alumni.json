@@ -1,4 +1,25 @@
 {
+  "17a246e7-8108-4c92-b779-0f65c17ce91d": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Leap Club",
+    "Phone no.": "9325837420",
+    "Designation": "Software Engineer",
+    "Country": "India",
+    "Email": "pratik18@navgurukul.org",
+    "Bio": "This is Pratik Deshmukh from Maharashtra, working as senior software engineer in ",
+    "LinkedIn": "https://www.linkedin.com/in/pratik-coder/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d1199ab0-4dd8-4d6a-9c22-7d78902155b0/pratik.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=aee23d922aa7a8332c96e2638cb1e637bc05fb90915bd71dd82b492914437c23&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Pratik Deshmukh",
+    "Content": [
+      "This is Pratik Deshmukh from Maharashtra, working as senior software engineer in "
+    ]
+  },
   "11b13c7c-1840-45ac-87f1-1d6c66fe48da": {
     "Area of expertise/skills": [
       "Backend"
@@ -6,14 +27,14 @@
     "Property": null,
     "Company Name": "Cactus global",
     "Phone no.": "9650702755",
-    "Designation": null,
+    "Designation": "Software engineer",
     "Country": "India",
     "Email": "anmol20@navgurukul.org",
     "Bio": "I, Anmol Mehra located in Gurugram, recently hired by Cactus Global as a Software Engineer. I took lockdown as an opportunity, I decided to do a year-long residential software programming course and went to Navgurukul, Himachal Pradesh during ",
     "LinkedIn": "https://www.linkedin.com/in/iamanmolmehra/",
     "Association": "Full-time",
-    "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cc9175bc-cc6d-4e05-b72f-afceed1d5e1b/anmol.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=d9e26e0063cd97d3a107c2e21ea15480322f072f0bd3d60599a2b8919a1b1f69&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Twitter": "https://twitter.com/iamanmolmehra",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cc9175bc-cc6d-4e05-b72f-afceed1d5e1b/anmol.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=7d3f574cfa18dff6a2e8e6bedb3b92f3c302489770dff287c81b0a134786b5b5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anmol Mehra",
     "Content": [
       "I, Anmol Mehra located in Gurugram, recently hired by Cactus Global as a Software Engineer. I took lockdown as an opportunity, I decided to do a year-long residential software programming course and went to Navgurukul, Himachal Pradesh during "
@@ -33,7 +54,7 @@
     "LinkedIn": "https://www.linkedin.com/in/pooja-mahanor-9a0021182/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/MahanorPooja",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5db05046-b5fa-4ad6-bbb4-4343643294ac/1642969531475.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=c7a7cc771f3fd4da187ddda3ed75568fefef064eaad359ae90e928f0fe8831f7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5db05046-b5fa-4ad6-bbb4-4343643294ac/1642969531475.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=b6ccc7bbb26ab9b8d6e307c53d3fc7cb4a07ebb2ec200f8ae3c7ed8e6483657b&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Pooja Mahanor",
     "Content": [
       "I belong to a Middle-class family, my mother is a housewife, I wish to pursue a career which not only takes care of our financial needs but also makes them proud. About to complete a year as a Data Lead in NavGurukul.",
@@ -72,7 +93,7 @@
     "LinkedIn": "https://www.linkedin.com/in/saquibnasim/",
     "Association": "Contract",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=125da1441ac677a13b8cce44238ea7397c6e6a8097624b7252f8183fbc45742c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=356c5ef508293f0d25e66852af2a8b07e748464bba48e2a4b94322df6d3853f0&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Saquib Nasim",
     "Content": []
   },
@@ -108,7 +129,7 @@
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=ab636f9204e0126247953e4bfd1be0d5395a69a7c18274bd8366210ad0961be5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=37e3bd588d45801eee984840c3f7e208c1ae847a79e9f2809b4de87b3719ccb7&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
     "Content": [
       "\u201cI can not do everything, but I can do something. I must not fail to do something that I can do.\u201d - Helen Keller"
@@ -146,7 +167,7 @@
     "LinkedIn": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=dafb374ecdfd93bc244744f4a8a043139915553b1a355c3267a4c1a0fa19afa4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=4419bd516268e44e9ea575b06ff17327e38db56ecfe02c2420b9f4d30a62ca19&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Komal Ahire",
     "Content": []
   },
@@ -164,7 +185,7 @@
     "LinkedIn": "https://www.linkedin.com/in/poonam-bagh/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T123454Z&X-Amz-Expires=3600&X-Amz-Signature=c125f515edfc6fc3fee5f3821d7e7a3b1241cde1265c552a9dab083187a4ff48&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T125056Z&X-Amz-Expires=3600&X-Amz-Signature=1f28c1907560cbd75b5b17a52a79e5a7a3b6a791299428a6b44d21078940a76d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Poonam Bagh",
     "Content": [
       "Working for a year as a frontend web developer in Navgurukul, pursuing BA final year and BCA first year. Learning Backend."
