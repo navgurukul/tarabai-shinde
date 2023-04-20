@@ -1,4 +1,17 @@
 {
+  "6fc8a4c0-5914-4535-8076-5b00bb925579": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
   "b7442147-299e-4c1c-ace8-f321d5154a1e": {
     "Country": null,
     "Email": null,
@@ -252,7 +265,7 @@
     "Bio": "I am pursuing Bachelor of Technology in Computer Science and Engineering,Amity University Lucknow,Uttar Pradesh. I am a MERN Stack developer and love to build real word applications. ",
     "Linkedin": "https://www.linkedin.com/in/priyanshu-tiwari-602586199/",
     "Association": "Consultant",
-    "": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7adf3dc7-0aa4-486e-b963-8159555507cc/Profile_Pic.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230420%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230420T072635Z&X-Amz-Expires=3600&X-Amz-Signature=387f1a63b94aa2294d2a88701b13767d6e84bbf0eb1fa8a3ff4983d6f9a96534&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7adf3dc7-0aa4-486e-b963-8159555507cc/Profile_Pic.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230420%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230420T073212Z&X-Amz-Expires=3600&X-Amz-Signature=b0c9c2b559d1afd5ff4c60867c374a6d0d24127d95ab5d1fc58b9e0c3c1ccd3a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Designation": "Student",
     "Photo": null,
     "Twitter": null,
@@ -1358,22 +1371,6 @@
     "Name": "Rupali Singh",
     "Content": [
       "Alumini of Navgurukul Campus. Currently working as Community Manager In Sarjapura Campus"
-    ]
-  },
-  "ae379983-72b7-4de7-9052-e8ef940ae7ca": {
-    "Country": "India",
-    "Email": "narendra@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "https://www.linkedin.com/in/perfectlypixel/",
-    "Association": "Contract",
-    "": null,
-    "Designation": "UI/UX Deisgner, Meraki",
-    "Photo": "photo.jpg",
-    "Twitter": null,
-    "Name": "Narendra Singh",
-    "Content": [
-      "Narendra is a UX professional who aspires to enhance UX maturity wherever he works by doing data-informed UX design. He is also an avid cooking hobbyist and amateur photographer.",
-      "\n"
     ]
   }
 }
