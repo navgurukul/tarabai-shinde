@@ -1,55 +1,49 @@
 {
-  "e0fcbff4-7ae5-4083-8527-292693cc15e9": {
-    "Website": null,
-    "Logo": null,
-    "Supporter Name": "",
-    "Content": []
-  },
   "caf4161d-4295-4137-a677-9ae2236893d9": {
     "Website": "https://www.amazon.in/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5566be96-8706-4f63-90a1-520acdacea95/amazon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=442461df7b5155400468c35828301ec7792121e9a6abb4024e1e9ff098d577dc&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5566be96-8706-4f63-90a1-520acdacea95/amazon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=a585f91913bcb3102207f7706479c15f3715be975d0079e3b367bfe5ddc4b1a2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Amazon",
     "Content": []
   },
   "9dbe03cc-f85c-4cf7-aea1-493c6d089beb": {
     "Website": "https://www.socialalpha.org/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/755dd5bc-e08a-4b97-840f-d8dc5648ca00/social-alpha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=72454afd4a1efa98c40fdd924982f47d65664d69ecf692bc663aea6a104aa1b8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/755dd5bc-e08a-4b97-840f-d8dc5648ca00/social-alpha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=c2ae87e7d7be284cb26c1fd79a80947b071396e2ea0c1accc518897a510fca0f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Social Alpha",
     "Content": []
   },
   "3967f0ab-22bc-49cb-952e-2cbcf997a59e": {
     "Website": "http://ncore.thenudge.org/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5d68e179-0b09-436c-aec1-b60c778fa20a/ncore.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=b19d71d38b4b34df83e502e8cd51e7538daa4620b8a2e99404536af851d19873&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5d68e179-0b09-436c-aec1-b60c778fa20a/ncore.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=e7abb2facda3345476ea75eff710fd5188e62d08d029af431ad155f0f771acf2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "N Core",
     "Content": []
   },
   "c491dd45-d096-4e1e-ac11-4c74eb50a1fe": {
     "Website": "https://unltdindia.org/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/9be384ec-d6aa-4e83-90d1-df95cd97e7b5/unltd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=88f2bad0ba05cc1a6c7b20b9047e98b845699a4850aa050a9b78da451593b034&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/9be384ec-d6aa-4e83-90d1-df95cd97e7b5/unltd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=7947e5914e83e81a4029ce440e4b67e9ba7f8b931e29497e79b9cf3513a8b174&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Un Ltd",
     "Content": []
   },
   "ddf0639d-ad4a-4893-a74c-b1c218b3dab8": {
     "Website": "https://www.dunnhumby.com/india/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/36642d4a-94a9-433f-a37f-58d06973c672/dunnhumby_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=b74b0320a1fb33ebbf4808744264a8e1ec9354ff8c87aaeb3a6813b6d21af2bb&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/36642d4a-94a9-433f-a37f-58d06973c672/dunnhumby_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=8bc270749bb37024b785885dbd3936bc8cb59be69a5683b86563d1d21369ef11&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Dunnhumby",
     "Content": []
   },
   "16a94c34-c589-4155-998c-dc36d953ce46": {
     "Website": "https://www.games24x7.com/",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/55072092-0b71-4c6d-b199-d0e2a1c43f89/games24x7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=e97aef7f0c00225a8ff12d942a68e9d4e46c7849ea40409c9c0ea77185f28f98&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/55072092-0b71-4c6d-b199-d0e2a1c43f89/games24x7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=ce1fdf60d329cea57f8dbc16eb1cff7e0ae91fb1562c9740455e3379b976af52&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Games 24x7",
     "Content": []
   },
   "5847d604-dd8d-4916-a9be-6e3560274f2f": {
     "Website": "https://www.accenture.com/in-en",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f01e8dfd-939b-49e8-8a44-631c5f25b1b6/accenture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=019b09b97a1d8d34e6dacdf552c2e7ffade7a44e65d432a913ede5cb5019d841&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f01e8dfd-939b-49e8-8a44-631c5f25b1b6/accenture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=6a2fbd75a3467dbd589fd2be1d7873f6dc0b020bf7ee57da9cdcaa592c654c74&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Accenture",
     "Content": []
   },
   "783469ef-a4c5-441c-adc6-a6db4b92ab6a": {
     "Website": "https://www.microsoft.com/en-in",
-    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c47bcc48-6390-4689-87c5-7122ceec3a2b/microsoft.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T055944Z&X-Amz-Expires=3600&X-Amz-Signature=4c947c439fd1e85df4b7a846f5492e862a52304618135008301889e55e436889&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c47bcc48-6390-4689-87c5-7122ceec3a2b/microsoft.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240227T060701Z&X-Amz-Expires=3600&X-Amz-Signature=77b1152d9802336dba63747d2906adb308f0884e87452081fea07e7eb665f5eb&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Supporter Name": "Microsoft",
     "Content": []
   }
