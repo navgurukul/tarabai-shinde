@@ -1,13 +1,39 @@
 {
-  "0eae319f-8fda-4629-88e1-08f24f5104ca": {
+  "e6ef8132-9859-45fc-9950-eeb46856130e": {
+    "Association": null,
+    "Team": "Placements",
+    "Country": "India",
+    "Email": "shanti19@navgurukul.org",
+    "Bio": null,
+    "Linkedin": "http://linkedin.com/in/shanti-gupta-932742195",
+    "Designation": "Associate",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/415febf4-e045-416f-b7a3-a96f0cc21486/shanti.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=2e62bb13bfad3254dace34b501afeccffcee99ba7176098f313b5f204e755d2e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Twitter": null,
+    "Name": "Shanti",
+    "Content": []
+  },
+  "0014db3d-57b0-480e-a81e-f7db235c09dc": {
     "Association": null,
     "Team": null,
-    "Country": "India",
+    "Country": null,
     "Email": null,
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/98134f46-7f7a-4ce7-8562-b0f7b950620f/Pooja_Mahanor.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=e81ad68e526eb61959c744902be118c4fe1a1e4ab5d19215f190801220f8d9fc&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "0eae319f-8fda-4629-88e1-08f24f5104ca": {
+    "Association": null,
+    "Team": "People and Culture",
+    "Country": "India",
+    "Email": "pooja@navgurukul.org",
+    "Bio": null,
+    "Linkedin": "http://linkedin.com/in/pooja-mahanor-9a0021182",
+    "Designation": "Associate",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/98134f46-7f7a-4ce7-8562-b0f7b950620f/Pooja_Mahanor.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=58cbf01536539d042e9be754f75d34727a8d70b57ab24000956c43e855d299bf&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Pooja Mahanor",
     "Content": []
@@ -20,7 +46,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/priyanka-dangwal-52004a21a",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d2099ca4-0f0a-4781-94c5-e9f25019f2c1/pryanka.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=6d3ee141e5a4cd57af42a4e65f6693f8bbbe25189023b715752f004afd6f595b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d2099ca4-0f0a-4781-94c5-e9f25019f2c1/pryanka.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=32cf9d5acb7fcc13e32ea30421da0ce8532b0abdf495e7fc34e2314e6240dbff&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Priyanka Dangwal",
     "Content": []
@@ -46,7 +72,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/poonambagh/",
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4ea12fa4-ed45-4411-9bd4-dd2d99ddbeb5/poonam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=dbd39306a960c2de5f23253cae21bce1bd022c28d7ea5133e7ca234336018b4c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4ea12fa4-ed45-4411-9bd4-dd2d99ddbeb5/poonam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=e9d2e51e20b40509c34425d4109a353c563f43fe16ea223a154e1b425713b33a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Poonam Bagh",
     "Content": []
@@ -59,7 +85,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/pooja-singh-15415b225/",
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e0b50e48-67ce-4344-bd27-744a15b597f1/poojasing.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=1c80140d4a6563c4e06c431cfe37d203c403d0d6f9fa3ad0702080014b3e36b6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e0b50e48-67ce-4344-bd27-744a15b597f1/poojasing.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=e9122645d6a1121a1be4604d6a2f1cbfd337f82213e3d2e3acb806c7e0d6b588&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Pooja Singh",
     "Content": []
@@ -72,7 +98,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/nidhianarkat",
     "Designation": "CEO",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4ece4f2a-844c-4577-9d0d-91df23b93961/nidhi.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=545543a9b39244a5e884984107dd24d6ac3b44ffb7aee373900d727ff2d78e88&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4ece4f2a-844c-4577-9d0d-91df23b93961/nidhi.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=b1c62e4d6afe5680fcc6c5801017f79c5a74efced87547af63660cf0f790d1e3&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Nidhi Anarkat",
     "Content": []
@@ -98,7 +124,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/2b489c06-763e-47ca-8b24-7c5373e6e351/Ragina__Darlong.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=38dfb15b2f2a71408df4fac8efb87120a273f61c7bf98b6186b7839d62dc833c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/2b489c06-763e-47ca-8b24-7c5373e6e351/Ragina__Darlong.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=549e2d4580e5af1f703e6c46bfc6f88b9123067b68dcad919a179656823d4dd2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Ragina  Darlong",
     "Content": []
@@ -111,7 +137,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/29c29a14-4679-41e8-81f0-73c798563058/Pragati_Vardhaman_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=13972347e6b06dc6a6ef15a438336d11735ef9c39129a57319bf98314290536f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/29c29a14-4679-41e8-81f0-73c798563058/Pragati_Vardhaman_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=c7bb9600d0ae8b9010c6763720d79b516a1161fa14a4a794b57875177af9743d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Pragati Vardhaman ",
     "Content": []
@@ -124,7 +150,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/sonalikasharma998",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/76047b42-e2ef-4411-aad1-e11330375521/Sonalika___Sharma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=9335631c1f2f50bc68bd99df15c87bbd3e1a70e71267407275c240f9e98e9efa&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/76047b42-e2ef-4411-aad1-e11330375521/Sonalika___Sharma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=628db5c1458e414a40d679679a8a67edcd884fe7d5fa4bbe7df30728026cd5fa&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sonalika   Sharma",
     "Content": []
@@ -137,7 +163,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/prachi-shah-62b4b51ab",
     "Designation": "Head",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a48a2f4d-1c66-45c7-8264-12d50c3c42cd/Prachi________B_Shah.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=01a480a02f3152b9fd1cd9912a8b800d03509a37aaac937a055cadfd7b2351bb&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a48a2f4d-1c66-45c7-8264-12d50c3c42cd/Prachi________B_Shah.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=9d979ac85ed2c3174dc048aac4cd23c6b6f21c685ba855d49f1a954a4b1f807c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Prachi  B Shah",
     "Content": []
@@ -150,7 +176,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/69585cb3-13f2-462d-9ad0-f48df14b5377/Debalina_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=18e928c165b4cf30754ccba93a55b0c328b0563bb3a5bfa7b9b49b0d0e50f276&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/69585cb3-13f2-462d-9ad0-f48df14b5377/Debalina_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=704bb7eb6eb69f79b5f37f3bfbfc1e86c189a17c3d89aef8ecad973d54b34833&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Debalina ",
     "Content": []
@@ -163,7 +189,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d00e6445-75f1-441f-a831-929025017abc/Santosh_Maurya.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=84e2d15fa9fe451110234bc01e9903b97978d95064a3135f4b84bddfcd225df7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d00e6445-75f1-441f-a831-929025017abc/Santosh_Maurya.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=7181934723ce7eb8672109ead723bda844b0b2fa8a89a371e64e3304fe014890&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Santosh Maurya",
     "Content": []
@@ -176,7 +202,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/sudhimpact",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/2c17d5b6-4f90-4790-853c-2bb71251097b/Sudhandshu.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=34886cbb150524142dd6117dd93cb8e3ee574abfa417d285199f7cb5093a90da&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/2c17d5b6-4f90-4790-853c-2bb71251097b/Sudhandshu.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=7a731d00e7f41aab451e49a9046b64cb717a148f0422009d2e2b7bf10a1f3b4a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sudhandshu",
     "Content": []
@@ -189,7 +215,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/nikesh-dhruw-30860217b",
     "Designation": "Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ea5b26f5-d735-466d-94e4-f41252d163b3/Nikesh_Dhruw.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=0b71842a76f123b3e069398c8712f562a4bf26b817d197a3f2107d196fa0df16&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ea5b26f5-d735-466d-94e4-f41252d163b3/Nikesh_Dhruw.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=996bae1f95829996c35b2b742a30b1822a050527f84bdadb0c709f6f306978e6&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Nikesh Dhruw",
     "Content": []
@@ -202,7 +228,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4b68be92-3f43-4eae-b2ed-f4f286df171a/Anshika__Tripathi.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=13a4290c4dcc9c72395ca5fb91f655f5b6c0fd92666bd077fa4270916f5ff00f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4b68be92-3f43-4eae-b2ed-f4f286df171a/Anshika__Tripathi.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=66b4c9a0d1ec50773539c59edbb66438b8b981c05e56be5ed7e6b1d386a99cab&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": " Anshika  Tripathi",
     "Content": []
@@ -215,7 +241,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e7673a14-aa71-4c86-8ed3-1151f6c5941b/Nilesh________Suryakant_Raut.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=04dd11e900015caadfa2e0fd761d09f953922b2587dc12fa6f12f740e200d82d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e7673a14-aa71-4c86-8ed3-1151f6c5941b/Nilesh________Suryakant_Raut.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=b87d987f15dedab9ced16f77369dc06b5c5a1086e2f4c5ffb965211550e3d963&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Nilesh Suryakant Raut",
     "Content": []
@@ -228,7 +254,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/gayathiri-mohanram",
     "Designation": "Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/449d3770-0b6c-4511-80ab-daeb65b66604/Gayathiri_M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=d221429421305b768de8b83ff196521405e08e40c06e33cfd69e76e3897fd169&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/449d3770-0b6c-4511-80ab-daeb65b66604/Gayathiri_M.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=2f0eb9eeffd2b6fbf8cb0424b33e7eb145fd22d95ab2289653a85e4d904e31b5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Gayathiri M",
     "Content": []
@@ -254,7 +280,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/42c14a48-84b0-4e9b-9ad9-1d9f9192e630/Anindita_Ghosh.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=8cf6aaa5946632b54171dfcb49d5e56a1ba73fb1eb12099b35f2b08e612f7784&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/42c14a48-84b0-4e9b-9ad9-1d9f9192e630/Anindita_Ghosh.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=18423caf42cb32a293344baa1ff7c08c11e0756bfd22c742c0b7cf6676ebba6d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Anindita Ghosh",
     "Content": []
@@ -267,7 +293,7 @@
     "Bio": null,
     "Linkedin": "http://www.linkedin.com/in/melque-s-thomas-00744673",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/7a57dce7-2cdb-41c5-9ba2-a4861abf7832/Melque__Thomas.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=d840094c6960d2ea414233094c15663372caba289ba78ac84018ce5df6aeb8d4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/7a57dce7-2cdb-41c5-9ba2-a4861abf7832/Melque__Thomas.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=eab2f1081b64f5f276a544eae504ea57c1f98d483a946a712b62175579843df3&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Melque  Thomas",
     "Content": []
@@ -293,7 +319,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a0e81d17-39cd-4875-9779-53ae7591a59d/Tembarai_Srinivasan________Venkatesh.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=fa1ff25ae47cae605eac023744e162016225392b925e1a87fc89f50e222aea71&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a0e81d17-39cd-4875-9779-53ae7591a59d/Tembarai_Srinivasan________Venkatesh.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=68b22392126d53a0337f82e23f18a4616245e64e372584d6276535a1b3531042&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Tembarai Srinivasan  Venkatesh",
     "Content": []
@@ -319,7 +345,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f8552a81-16b2-409c-be97-10e5e05e0db3/Divya__Rajanal.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=fa939355ab37c88ec5a92f8a829ba0e2bb2766d67ef6ac091e47ebaa173e8a0d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f8552a81-16b2-409c-be97-10e5e05e0db3/Divya__Rajanal.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=38647351a505319a0614f47a6a69969cc4cdec390622c472eb8324fa1a88553f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Divya  Rajanal",
     "Content": []
@@ -332,7 +358,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/samarth11235",
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8f5e5f25-a613-48df-93da-0aff7a6b5bef/Samarth_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=ca90dafab4d25023c68fc878205d3c9a0a3e6f49c6da73ab1eb4c80c07e43339&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8f5e5f25-a613-48df-93da-0aff7a6b5bef/Samarth_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=c0acd08243eb649318286addd9315f9830f4104d0d37b3949362f9a027befa9e&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Samarth Sharma",
     "Content": []
@@ -345,7 +371,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/md-arshad-373331129",
     "Designation": "Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/20f00e6c-2e0d-445c-9c71-a90e840923c0/Md._Arshad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=11511028779ade312fe957f4ddc4d79d4b627571ce3c1c62be811ce986e4f025&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/20f00e6c-2e0d-445c-9c71-a90e840923c0/Md._Arshad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=f2d534408a90dee75ea9faa924516e76e5a6fb770edeacb5781d2388f2101bab&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Md. Arshad",
     "Content": []
@@ -371,7 +397,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/aarzoo-jolly-9b5578114",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f8972e1c-44a7-4e2b-8335-5fd1caf2ccb6/Aarzoo_Jolly.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=4898bd984db241eb238cfbbee2ef87ecde971d9e61b5f1ff0fea56ba06540497&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f8972e1c-44a7-4e2b-8335-5fd1caf2ccb6/Aarzoo_Jolly.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=3ece367d83740913dab9324b598a47b83fe293e6cfa00fd38e44a72dac3d9c43&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Aarzoo Jolly",
     "Content": []
@@ -412,7 +438,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/ashwini-mathpati-327976247",
     "Designation": "Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/6a11c276-65a0-4b8e-8263-36ecf8a006a1/Ashwini_Nagnath_Mathpati.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=03b3d5dd2fd9b6ccb3c561c1a4e9ea39a410ee6b389fe7e94e535052c99681ca&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/6a11c276-65a0-4b8e-8263-36ecf8a006a1/Ashwini_Nagnath_Mathpati.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=3caad2fcbb13aa9398fb0b5a4b5435ff02852ecb3932820de6e72c33807cbe40&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Ashwini Nagnath Mathpati",
     "Content": []
@@ -438,7 +464,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/unnati-sharma-she-her-baaa13198",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/217b596c-e5ae-4287-a0ea-ee516dde5861/Unnati_Sharma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=32864928c706a01065fc81e2f36bd12e32058d714aaf0dc9f76b26c089e11c8a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/217b596c-e5ae-4287-a0ea-ee516dde5861/Unnati_Sharma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=08d8c4782a31f6b8e57231488c46f1e99807cfdc595db81e57e8b7a5ffe65af0&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Unnati Sharma",
     "Content": []
@@ -464,7 +490,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/sumati-bagharatta-906527ba",
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/98c9e5f2-2861-4237-b00a-0807d12b9541/Sumati_Bagharatta.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=e1af4b2e29588a87ab881dcb78548321d812cb8137ae8f4e9dbf8309fa085e4b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/98c9e5f2-2861-4237-b00a-0807d12b9541/Sumati_Bagharatta.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=dad1b1e1c9f43dd85628ddc85e856bf7965a1e05475e81bc00186aabadd11a91&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sumati Bagharatta",
     "Content": []
@@ -490,7 +516,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/6b346f95-f343-4e52-b351-e800aa11e2c7/Urvi_Saxena.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=6a6dab7b934bf5a0875b856a9a152e04b99832312e8cc220565a6f84fd10f8c8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/6b346f95-f343-4e52-b351-e800aa11e2c7/Urvi_Saxena.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=e9aab8918114ea7a0b84177da2b883b1d62e41e50bd9149e310823499f694269&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Urvi Saxena",
     "Content": []
@@ -503,7 +529,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/tulika-verma",
     "Designation": "Head",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/60233a5b-75db-40e8-9805-933ab4a016d4/Tulika_Verma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=00eac1fad412d046627233e491422464108d3dffcbed44ff68896f26d059511d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/60233a5b-75db-40e8-9805-933ab4a016d4/Tulika_Verma.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=44b9e432efe703d6e00011ec7bd10ee8e6ca40d5774d223249c33c29a92e5d2a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Tulika Verma",
     "Content": []
@@ -529,7 +555,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/vijayvedantham",
     "Designation": "Director",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a6831a78-553c-4e84-b41f-c5942d1a004f/Vijayaraghavan.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=4649be5c6b6418560d79c9003a26db7d87cc33c64e0f876b32e05ae33fc71165&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a6831a78-553c-4e84-b41f-c5942d1a004f/Vijayaraghavan.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=e9ec45dc55bd9bf8f741042fe02aeafb29f1b8cbf1263b53304c6004120cdb7b&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Vijayaraghavan Vedantham",
     "Content": []
@@ -542,7 +568,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/aakashbhakuni",
     "Designation": "Communication Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0fcbb135-9404-48b8-8101-01c133244143/abhi.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=3ad95ba78c0662347be36a15e4125cecf53917a93d58c59f81f017c70aaa258c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0fcbb135-9404-48b8-8101-01c133244143/abhi.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=357d30d1cbdb37d86d8260f71b90e53bfcc06426c5e22f3afa7630175e7f7a03&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Aakash Bhakuni",
     "Content": []
@@ -555,7 +581,7 @@
     "Bio": null,
     "Linkedin": "http://linkedin.com/in/balakrishnan-chettythody-87b2763",
     "Designation": "Director of Residential",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e6f62c6c-eba0-4383-8284-fba293a2c82c/bala.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=5c87a1f958a2ac1a363d40415324938f56ea1ef812752edb8ae14fe41671e8ef&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e6f62c6c-eba0-4383-8284-fba293a2c82c/bala.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=a8e10314c9101cf1479e1198532ba2d7ce0e0345ac5f405af62f7f151cf9198a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Balakrishnan Chettythody",
     "Content": []
@@ -623,7 +649,7 @@
     "Bio": "Siddhi is a dedicated professional social worker with a Bachelor's and Master's degree in Social Work from the University of Delhi. Committed to serving marginalized and vulnerable communities, she is inspired by Paulo Freire\u2019s principles to bring practical, transformative change to the communities she works with.",
     "Linkedin": "https://www.linkedin.com/in/siddhi-jha-3740b2260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "Designation": "Mobilisation Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/784e8fae-35fe-44fe-92a0-317305c25d21/IMG-20240216-WA0008.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=c87aaa015fde5606d3ee88bddd6382c35aacbb277c20cff2b9d3dba3a3f2a3b7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/784e8fae-35fe-44fe-92a0-317305c25d21/IMG-20240216-WA0008.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060430Z&X-Amz-Expires=3600&X-Amz-Signature=8b97cc7470ed091d05bf5df56a95949f48e1fffe86d11ac46b6ffa267efe79c7&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "",
     "Content": [
@@ -638,7 +664,7 @@
     "Bio": "B.Tech, India. MBA from California & an exchange program at IIM Bangalore. Diverse experience working for leading tech companies such as Apple, ServiceNow, and Cisco, alongside contributions to nonprofit causes and a stint as an entrepreneur. Telangana State Social Impact Group\u2019s (TSIG) Covid Brave Hearts Awardee in 2021 for exceptional leadership and community service.",
     "Linkedin": "https://www.linkedin.com/in/sandhyadittakavi/",
     "Designation": "Director at Zuvy",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ed9166c3-3273-4cba-ba57-b1424b56360f/IMG_6167.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055719Z&X-Amz-Expires=3600&X-Amz-Signature=f575916b751d769e46678a9b36ccd9d14f4c57289e05e417081800c005f0ccbd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ed9166c3-3273-4cba-ba57-b1424b56360f/IMG_6167.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=bf675dd1a0a77308c90b7a6f185d4260803e0c5874f761ba63ada5ff7500f00c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sandhya Dittakavi",
     "Content": []
@@ -664,7 +690,7 @@
     "Bio": "Building teams and products in EdTech and more for improving certain aspects in life.",
     "Linkedin": "www.linkedin.com/in/ramesh-babu-bupathy",
     "Designation": "Director of Technology",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c0976d6a-8075-475e-91f4-ce2162833224/Ramesh-Photo-2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=ffc3489934e4953a981cd41ccb21f863c21d85625c2a33341bb66af54b6b71bd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c0976d6a-8075-475e-91f4-ce2162833224/Ramesh-Photo-2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=229e5f585407bdd8e786b09bdd4d56eb1238df94e525d207ff145bae8baa033e&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Ramesh Bupathy",
     "Content": []
@@ -677,7 +703,7 @@
     "Bio": "I'm Gaurav, a pre-final year CSE student at IIT Bombay. Passionate about innovation and adept at multitasking, I've gained experience in software development and project management within various organizations, including the Edtech sector.",
     "Linkedin": "https://www.linkedin.com/in/gaurav-yadav-2b92b5198/",
     "Designation": "Founder\u2019s Office, Zuvy",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/453775d1-9d02-4727-b04c-d1261a11c639/IMG_1894.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=3873cb4c24b234bf323d71d3cce8c50f8647f78294275e23be2e9ed119eff56a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/453775d1-9d02-4727-b04c-d1261a11c639/IMG_1894.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=da8692e9af29e306fd419d2cae63f827337799871048b8fe21249d4828fa0452&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Gaurav Yadav",
     "Content": []
@@ -690,7 +716,7 @@
     "Bio": "Program Manager at Raipur campus, with 3 years of experience in the development sector.",
     "Linkedin": "www.linkedin.com/in/sarika-agarwal-4b52b5126",
     "Designation": "Program Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/cde80ca8-f5de-4ede-8ed2-b9006a20cfc0/1712040105202.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=d7ded2398731e8ddb9ea9beafad5129db18fa107025464273fead6a6a662bdbd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/cde80ca8-f5de-4ede-8ed2-b9006a20cfc0/1712040105202.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=703ebba3150ce33656382d304ef3eba55a93b3dba843fa2accd63154b16670e5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sarika Agarwal",
     "Content": []
@@ -703,7 +729,7 @@
     "Bio": null,
     "Linkedin": "www.linkedin.com/in/melque-s-thomas-00744673",
     "Designation": "Residential Operations Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4fe61c6b-67d3-4d33-98ea-0889e9bb8e9c/1701089215006.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=9b17c6d27bafc3dd377dfe9ff055959e6189e8d86bfb96d60ae9e296cfdb4157&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4fe61c6b-67d3-4d33-98ea-0889e9bb8e9c/1701089215006.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=a12f792c1484474d80884b97c3fbdad1481ea31b6aaac24bbbaf340d931d1679&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Melque S Thomas",
     "Content": []
@@ -716,7 +742,7 @@
     "Bio": "Dedicated full stack developer with 2+ years of experience in IT.I merge a passion for usability and user experience with technical knowledge to create cool digital experinces.Excited to be at this organization as a Senior Backend Developer.",
     "Linkedin": "linkedin.com/in/arunesh-dhar-34386519b",
     "Designation": "Senior Backend Developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ab33aa43-1166-4b9a-af2b-1ca4c7429765/Picsart_23-10-22_01-47-34-025.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=e7bd2741efa610b5b7ffd3d0d3f393fe89b87f321847fba4b8fb52e1eb42f1ba&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ab33aa43-1166-4b9a-af2b-1ca4c7429765/Picsart_23-10-22_01-47-34-025.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=73ddfaa1ed02abc139c6f166025cc6fb8e9e96a125299e4e4e9033b2da8656a8&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Arunesh Dhar",
     "Content": []
@@ -729,7 +755,7 @@
     "Bio": null,
     "Linkedin": "www.linkedin.com/in/sunaina-goldsmith-1163b1183",
     "Designation": null,
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0d640e7c-a734-4d69-9617-ad91548f3542/img_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=640b9a907649c496b5fa7951299f323d4d96401a0743dbfa645605661d61a8aa&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0d640e7c-a734-4d69-9617-ad91548f3542/img_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=ebcad66878ea756c8976600b8c24433aa00376c1b574f8204c5c37b0bee03b26&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sunaina Goldsmith",
     "Content": []
@@ -755,7 +781,7 @@
     "Bio": "Alumni of Navgurukul and working as a frontend web developer in Navgurukul",
     "Linkedin": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Designation": "Frontend Developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/26f37b59-cc4a-4a9a-b5e2-dffc24a3ae90/komalA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=801c70824db790cc098931a722516996bb38cf8f4ec1aa916e576bf0b793820a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/26f37b59-cc4a-4a9a-b5e2-dffc24a3ae90/komalA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=2f44ae892ff05c3d8c10b8aff7fb5000920d577b4d7309d2c7879ed507f4ba03&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Komal Ahire",
     "Content": [
@@ -771,7 +797,7 @@
     "Bio": null,
     "Linkedin": "www.linkedin.com/in/pranjali-reddy-5a69022a1",
     "Designation": "HR Ops",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/08e8ab5e-55d5-4954-a741-210f39098e83/Pranjali_Pic.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=bfb9db49c4c583212ecf8e434fe1b9f01fdc131c8bf27ee01c275482482a4f01&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/08e8ab5e-55d5-4954-a741-210f39098e83/Pranjali_Pic.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=cd9f93056e712eae660e4309ecca99e2cf06a09bf761d6662f6d92c0e669d71a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Pranjali Reddy B",
     "Content": []
@@ -784,7 +810,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/priyom-jeet-7b6448126/",
     "Designation": "Front-end Developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/259256dc-decc-4c35-9f6b-15f4e36efb7a/priyomjeet.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=fe3947bcd37495390c723ada0e644dbbad5541017ed47b3423142df0a05cf885&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/259256dc-decc-4c35-9f6b-15f4e36efb7a/priyomjeet.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=b8215c196645c8f0a088f5e40be2a441ed8cd16f9a75dc6f1cbf93700a53fbc6&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Priyomjeet Nath",
     "Content": []
@@ -797,7 +823,7 @@
     "Bio": "Ajaysinh Sodha is young Social Development professional, worked in multifaceted role and diverse projects in education, health, WASH. livelihood, Youth and community development. he has been Gandhi fellow and CSRBOX alumni.",
     "Linkedin": "www.linkedin.com/in/ajaysinh-sodha",
     "Designation": "Program Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a83e8791-677d-4319-838e-f0e1249f5878/PHOTO.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=a7883b9b01ffa78950e47df79aa663531b865921f9873104ecb39040e0c1ac92&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a83e8791-677d-4319-838e-f0e1249f5878/PHOTO.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=2bd2eb13c45f3b237bb81dc4aa94186aba6f55bbd55122ff40279bc06d2a6cbb&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Ajaysinh Sodha",
     "Content": [
@@ -812,7 +838,7 @@
     "Bio": "I am a versatile professional with a background in education, having served as a Full Stack Python Trainer, Curriculum Associate, Engineering Teacher, and Headmistress. Additionally, I bring expertise from the networking sector, reflecting a commitment to technology and education.",
     "Linkedin": "https://www.linkedin.com/in/neelam-choudhary-4a93a455/",
     "Designation": "Curriculum and Training Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/129c885f-bc63-4962-ae11-414c855aaf98/im.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=c3763e612737686e6a688367ea9dd3a82193c3b1226f9b879e8e09651e944d77&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/129c885f-bc63-4962-ae11-414c855aaf98/im.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=2ce82898befaf1342a2c251192174fbeb016d91ac160be91800b63cfb6c91ed8&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Neelam Choudhary",
     "Content": [
@@ -840,7 +866,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/souvikdeb26/",
     "Designation": "Sr. Frontend Developer and Hustler",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/27f0bb87-75e8-40c8-9465-8aaf1876bbe6/1695713365157.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=9560a178162b62adbdb3d4ddbe20567e98e58273f622dff2147da6bd2225208d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/27f0bb87-75e8-40c8-9465-8aaf1876bbe6/1695713365157.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=a140a0c7d6a7a1b47ad8fdffd0cfe452ff8b978160838b80befcf3b05a51b984&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Souvik Deb",
     "Content": []
@@ -853,7 +879,7 @@
     "Bio": "I am a student of the 2020 batch at Navgurukul, and currently, I work as a backend developer at Navgurukul.",
     "Linkedin": "https://www.linkedin.com/in/bhupendra-deshmukh-7a157621b/",
     "Designation": "Back-End Developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/45ed3f42-e480-49a3-b73b-db6e2667222f/2562.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=76431cec23bf9bfbd8331d151b6a77cfdf6d5946ff497c8df28050dea182adf6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/45ed3f42-e480-49a3-b73b-db6e2667222f/2562.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=6f180ec41deda761ea0eeb6261ec2f4c4f1a0db70668869119373bf092f487c5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Bhupendra Deshmukh ",
     "Content": [
@@ -869,7 +895,7 @@
     "Bio": "Nandita Surwar, an ambitious soul hailing from Nagpur, Maharashtra. Having recently completed my 12th grade, I embarked on a transformative journey at Navgurukul Amravati Campus, where I spent eight months as a student. Determined to achieve self-independence and facing financial constraints at home, Navgurukul extended a helping hand, nurturing my dreams. I aspire to make my parents beam with pride, showcasing the epitome of their daughter's potential. ",
     "Linkedin": null,
     "Designation": "Culture Associate In Jashpur Chhattisgarh ",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/535aedcf-6b0f-4360-97d6-30c9e4aef9d2/Nandita.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=565fe24f7bf7343015efb0bb7b3f35509ccd137e83ba819df1805b81e2bf860f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/535aedcf-6b0f-4360-97d6-30c9e4aef9d2/Nandita.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=d0e0fa31f741f9f44270d54ee5cca370b98b2284d876cbd2a55667a8ba196850&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Nandita",
     "Content": [
@@ -884,7 +910,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/prerna-sharma-1b3a3a233/",
     "Designation": "Scratch Trainer ",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/cdae4a0f-460d-4af7-9d8d-12df570ffa80/1679920449320.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=6c258b8bf1e857d802e2955083fdc9dbd2476a84a7b39e12d5dd052454e6dd75&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/cdae4a0f-460d-4af7-9d8d-12df570ffa80/1679920449320.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=bdf106c3709419f0a811c50f84c44614990ebb58d926eafc39e017a0a8b2fa74&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Prerna Sharma",
     "Content": []
@@ -897,7 +923,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/319549a7-632f-4e2f-b18f-dff554e4cd05/IMG_20230927_012921.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=8bcb8e1420a07c0d1e4d30ebf506432d8024f89ee2dd36396b2bf7548a779a17&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/319549a7-632f-4e2f-b18f-dff554e4cd05/IMG_20230927_012921.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=3d7b153b7ef27260937839963a599511a1e1764cbc08bb0d3a73ecfb39c789b7&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Rishav Tiwari",
     "Content": []
@@ -923,7 +949,7 @@
     "Bio": "\u201cDo Not Seek to Follow in the Footstep of The Wise. Seek What They Sought.\u201d --- Firm believer of these words.\nApart from being a Good Cook I am also a gamer. I Love to play around with tech and learn where its pushing the boundaries. \n",
     "Linkedin": "https://www.linkedin.com/in/shashikantsethy/",
     "Designation": "Product Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b231a356-72fc-4be8-a057-930268c10411/Untitled-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=2406f2051793ffe109d36a1e0d4c8377aec0dca516220c153525a9b76d343a0b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b231a356-72fc-4be8-a057-930268c10411/Untitled-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=47df0c88d908662ea2ce0577ce2039ffc7afe7913880ea5474dc05a15dbfc7c5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Shashikant Sethy",
     "Content": [
@@ -953,7 +979,7 @@
     "Bio": "I am a maker at heart ;",
     "Linkedin": "https://www.linkedin.com/in/surajsahani/",
     "Designation": "android developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b3a93a70-5a31-42b5-b8c0-055d650d2678/bg.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=ec1bd58dc6c1a80f90561214e1205608bd3ef826c52b564b114702fc88ceee71&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b3a93a70-5a31-42b5-b8c0-055d650d2678/bg.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=edb59ecbb742ebfb232cf9a42b19b3bf90f307d3801abc9262238a207880918a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "@suraj_sahani_",
     "Name": "Suraj Sahani",
     "Content": [
@@ -969,7 +995,7 @@
     "Bio": "Sudhanshu hails from Siwan, Bihar, where he completed his early education within his village's bounds. During his JEE preparation journey, he discerned critical gaps in learning experiences, compelling him to pledge substantial changes in India's student education landscape. After graduating from Tezpur University, Assam, with an engineering degree, Sudhanshu departed from his corporate career to embrace the Gandhi Fellowship. This immersive experience delved into India's public education system, shaping his convictions further.\nPost his fellowship tenure, Sudhanshu collaborated with the visionaries behind two fledgling education startups. His efforts were pivotal in sculpting their offerings for schools and communities, amplifying their impact. Working closely with students and parents in distant tribal hamlets, he encountered a pivotal challenge\u2014conveying concrete post-program livelihood prospects to graduates. This hurdle catalyzed a profound pause, during which Sudhanshu wholeheartedly dedicated himself to fostering enhanced livelihood avenues.\nWith a sharp focus on bolstering livelihood opportunities, Sudhanshu endeavours to tackle the root causes of their adversities. His purpose centres on empowering families with sustainable income sources and resources, enabling a transformative shift from their present circumstances. His core belief lies in furnishing these families with the means to uplift their quality of life. By forging this path, Sudhanshu seeks not only to elevate individual lives but also to cascade positive transformations across entire communities. His unwavering commitment is an embodiment of his aspiration to contribute to holistic community well-being.",
     "Linkedin": null,
     "Designation": "Admissions Operations Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/412097d0-48da-47a9-8316-4d076f3633f0/Sudhanshu.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=76b444c59f0bb978afc00cf1855471aa0c4cc5d82e5ee27d8c18a7941759a84c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/412097d0-48da-47a9-8316-4d076f3633f0/Sudhanshu.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=d71d16b45eb342459af09b01686574d2c8ac81840aafe8433779856deb9e3397&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sudhanshu",
     "Content": [
@@ -984,7 +1010,7 @@
     "Bio": "Alumni of Navgurukul and currently  working as a frontend developer apprentice at Navgurukul.                                                                                                                     ",
     "Linkedin": "https://www.linkedin.com/in/apeksha-hande-27b96517a/",
     "Designation": "Frontend Developer Intern",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/25ff1ff9-ecf5-48f5-bbaa-fc34db51f835/WhatsApp_Image_2023-08-18_at_11.16.49_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=808e713b4535106cf27a873e24b0f8df3e797e1a0f7ab535641e7141b1f2ba81&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/25ff1ff9-ecf5-48f5-bbaa-fc34db51f835/WhatsApp_Image_2023-08-18_at_11.16.49_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=bc000053bdb32349d0d702fbee096fcc87bc333224ca5724ab6261a702c5659f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Apeksha Hande",
     "Content": [
@@ -999,7 +1025,7 @@
     "Bio": "Hello I am Shrestha (one of many at NG).I am an avid reader,self taught painter and someone who survives on Harry potter marathons and chai.My experience with TFI and London school of economics has made me realise the importance of building an ecosystem and not just an organisation.I am here as a next step in my vision to build a world where women can have it all. Up for a hike ? Hit me up.K bye.",
     "Linkedin": "https://www.linkedin.com/in/shrestha-satpathy-90115a196/",
     "Designation": "Partnership Lead",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8b9b798-1eb3-4ae3-94dd-4f2f3b0da508/WhatsApp_Image_2023-08-17_at_10.49.01_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=da566f9e44db0fe0cc9ac320c236f5a96ecfbe2ac2e34195f2d63b42c6b33785&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8b9b798-1eb3-4ae3-94dd-4f2f3b0da508/WhatsApp_Image_2023-08-17_at_10.49.01_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=d5bebd0a2903ae053a63d3dc722aa623bfb5ed2e968bf7d470428dd8138b1c68&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Shrestha Satpathy",
     "Content": [
@@ -1014,7 +1040,7 @@
     "Bio": "Software Engineer ",
     "Linkedin": "https://www.linkedin.com/in/anandpatel504/",
     "Designation": "Software Engineer at AlgoShack",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ab3206b1-a011-413f-b099-88f187847bc6/IMG_20220327_193114_562__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=98c61b7aec0a3eae978e7dae858f22dd0424753f1d29d159165a3cad14e27a76&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/ab3206b1-a011-413f-b099-88f187847bc6/IMG_20220327_193114_562__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=1079408253dd1eb9a8c0d25ae121353dd3ce2d2efb80a146d1fd3139008a9f57&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/anandpatel504",
     "Name": "Anand Patel",
     "Content": [
@@ -1030,7 +1056,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "ops associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e6664dd2-ae98-476a-a246-26df9aa429fd/IMG_20230615_214931_993.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=732efe024202f692b30d55db3b1f660507bf430e161c8af972330f55998ff2c4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e6664dd2-ae98-476a-a246-26df9aa429fd/IMG_20230615_214931_993.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=ae0115abd2451966ccdddc1def63754768d7b5366fb561395b43386ce494cf5c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Rahul bauddha",
     "Content": []
@@ -1043,7 +1069,7 @@
     "Bio": "This is Pratik Deshmukh from Maharashtra, working as a senior software engineer in ",
     "Linkedin": "https://www.linkedin.com/in/pratik-coder/",
     "Designation": null,
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a8bf28e4-a74b-4dad-a3f0-ff29cd4b673b/Screenshot_from_2023-01-20_11-06-35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=2cbe2aff57ef98705d496e9e9ba0e5160c4b9b77a196bd39ddf754b7fa4b3caf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a8bf28e4-a74b-4dad-a3f0-ff29cd4b673b/Screenshot_from_2023-01-20_11-06-35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=b6ebfdeae53b3944dc8f733a2ede99c37f5aa4b72e56234503fd259143515c7e&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sneha Walmiki ",
     "Content": [
@@ -1058,7 +1084,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/muskan-sayyed-b88a59240/",
     "Designation": "Team Member ",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a998ab67-9de0-4cf5-90f6-e70fc16d7487/WhatsApp_Image_2023-07-12_at_10.51.23_PM_%281%29.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=c084b3d56fab7c420d787cf48dc4d78e87ef93669eb44540ceedc4879708f996&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/a998ab67-9de0-4cf5-90f6-e70fc16d7487/WhatsApp_Image_2023-07-12_at_10.51.23_PM_%281%29.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=5837f9ef869a334a64057f85ac24e14d9ddd1fb5eef52ffae9ad4d161c7cf497&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Muskan  Sayyed",
     "Content": []
@@ -1071,7 +1097,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/tamanna-tanwar-5845b1240",
     "Designation": "Front-end Developer",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d490bbce-df81-43ef-883d-d39750534787/Tanu.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=b960e443ea1c648c7c9932c1a25de410f879235275604b8c9fb02506c1e6fe10&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/d490bbce-df81-43ef-883d-d39750534787/Tanu.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=4c17aa8ef511e6ab5d1ad1780fc202d01f574b127f0e2bdaac63a254c07eae5a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Tamanna",
     "Content": []
@@ -1084,7 +1110,7 @@
     "Bio": "I love igniting the young minds and making a difference in their lives.  Native of Tumkur, KA and settled in Bangalore.  Have worked in IT for few years and enjoyed teaching more than IT. In edtech have been since past 3+ years, contributing my bit to kids education, teacher trainings, student orientations, parent orientations, teacher class audits etc.",
     "Linkedin": "https://www.linkedin.com/in/rajathvijayakumar/",
     "Designation": null,
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8b47f1f1-3eb3-44cb-b185-834e3068b1bb/1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=981095138ea0e8498d26dfa083f6dcfd9e94dc6cea11b04312c2ecaca62b66f8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8b47f1f1-3eb3-44cb-b185-834e3068b1bb/1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=c50daedea40dc676ed6f9c610b3a6fc2ac0f77b736ac2900b4ca8843d60acb1c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/RajathVijayaku1",
     "Name": "Rajath Vijayakumar",
     "Content": [
@@ -1099,7 +1125,7 @@
     "Bio": "completed 2 years as a community sports coach at NAZ Foundation (Maytrayna) and transitioning to current role as a Graphic Design Academic Associate at Navgurukul.",
     "Linkedin": "www.linkedin.com/in/ sudiksha-yadav-903727221",
     "Designation": "Graphic Design Academic Associate",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/09846eb8-15e5-4d81-836e-fda557c5adf0/nootan_bottle_pic.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=ad2266d30bc5d1e2ddfc67f1c830e0ae662ff51a69535b74d75a943cf6dbfc9a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/09846eb8-15e5-4d81-836e-fda557c5adf0/nootan_bottle_pic.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=11b73a4ef5ef311d71af741316a3b3a537da58b0cd2d887fdf30629b0983959e&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sudiksha Yadav",
     "Content": [
@@ -1114,7 +1140,7 @@
     "Bio": "I want to help my family financially. Want to build luxurious house \ud83c\udfe0 for my family. I find solace and inspiration in reading books and continuously acquiring new knowledge. Collaborating with others and offering assistance brings me joy and fulfillment. I am deeply committed to my goals and strive to find opportunities that allow me to learn and grow.",
     "Linkedin": null,
     "Designation": "Culture associate ",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/004cb220-eef6-4ece-b684-7323d28a151f/IMG-20230327-WA0017.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=a4b0f767d0f52417c9c93d1d18af52704a2d1b1b430049011d293900aac34dcf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/004cb220-eef6-4ece-b684-7323d28a151f/IMG-20230327-WA0017.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=f97ab4793c7a8a8c4cc3660ba3be59e82d5b8c25ddb6316040aa02078af09de4&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Prerna Pandurang Guhe",
     "Content": [
@@ -1129,7 +1155,7 @@
     "Bio": "Explorer who likes to connect with people and believes in growing with others",
     "Linkedin": null,
     "Designation": "Program Manager learning ",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/74812d94-4520-49f0-9d66-e36123635f39/Shivani_Suji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=761a5a9c93e460c34449234f37ff5dda8b47daec9d64bcd63406aad7b46eafa9&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/74812d94-4520-49f0-9d66-e36123635f39/Shivani_Suji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=76f6ecf28ea31c41c209589a3b70685d7d1e00469351ea31159cbec30891bf4a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Shivani Suji ",
     "Content": [
@@ -1159,7 +1185,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/anjali-vishwakarma-00465a240/",
     "Designation": "Program Manager Learning",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/600700ba-bdd7-4c99-a29e-430ab6963366/IMG-20230131-WA0100.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=845aa8713c04fca388c3562ff719e03895fe4fb800e87770780901ce049bc744&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/600700ba-bdd7-4c99-a29e-430ab6963366/IMG-20230131-WA0100.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=a8d7cd6c274ebb2e3009c9ba4d1a795f10d6260d6c1194d6620df3e67295e857&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Anjali Vishwakarma",
     "Content": []
@@ -1200,7 +1226,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Program Manager- MERAKI",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0b9528ee-0af6-405b-86c3-64315dc57c28/profile_photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=6e1cf33be2469e9bbab01a597b184b5de7e31f91729a3f18dae0bed287a7c314&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0b9528ee-0af6-405b-86c3-64315dc57c28/profile_photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=083e7feed4637385e27f72d9dcba37f461423c7a2809fabc26d36ed46f54b79e&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Haritima Gupta",
     "Content": []
@@ -1213,7 +1239,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/sumati-bagharatta-906527ba/",
     "Designation": "ETC Manager",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/db38c855-30c7-49ef-8ee1-d5e81b9462c0/Sumati_Photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=6b8774456d43d272f2af50576b589175a7fcdbd64d9cdab7f162fa2cbe13d18e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/db38c855-30c7-49ef-8ee1-d5e81b9462c0/Sumati_Photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=21c09f6828b7c7247ccd4ec05466227f0dd8073a73b7974dc102147e850454c4&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Sumati",
     "Content": []
@@ -1226,7 +1252,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "PNC  intern",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8705d601-c199-4c68-9738-f68039d86215/WhatsApp_Image_2023-09-02_at_3.00.11_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=b80bb559c893c810095958f353eb1980621784aa498ed7a4ec1bba8bb4e76cdf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8705d601-c199-4c68-9738-f68039d86215/WhatsApp_Image_2023-09-02_at_3.00.11_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=3bd3699228dcd1532efafc8403c8374d13321aee45ffccd050cb64556a4ea597&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Dimpirung molsoy",
     "Content": []
@@ -1239,7 +1265,7 @@
     "Bio": "A passionate programmer. Specializes in competitive programming, data structures and algorithms. Also into writing blogs and reading books.\nCurrently a pre-final year engineering student.",
     "Linkedin": "https://www.linkedin.com/in/rishabh-srivastava-88538b20b/",
     "Designation": "Code India Intern",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0481529d-58d4-4431-9f40-fae9cdad77fb/profpic_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=2b0c2834dcf3e9e6c4225e3b24265e14aecb42f7e6d38a8d91263534d8dc1a38&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0481529d-58d4-4431-9f40-fae9cdad77fb/profpic_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=323673b263dcbc99144d8912add2962976b1b83b9557d1f65e742dceb4692048&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Rishabh",
     "Content": [
@@ -1254,7 +1280,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/abhishekgupta92/",
     "Designation": "Co-founder & Chief of Innovation",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5d319a84-8474-4913-a63a-ee6dc3ba4a99/Abhishek.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=f5600df370aea38a46e9fa8ec5b9e2dcc5f5303541abf70f4f8d778e16290f84&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/5d319a84-8474-4913-a63a-ee6dc3ba4a99/Abhishek.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=5174ad32cc4dbf4be2e67354701520ae98a6b5307ef50aaa2d2885e51a0989d0&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/vanitypotato",
     "Name": "Abhishek Gupta",
     "Content": [
@@ -1269,7 +1295,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/priyanshu-tiwari-602586199/",
     "Designation": "Consultant",
-    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/60bfafee-2cce-4050-88e9-93ee3d6496a7/Screenshot_from_2023-04-22_20-41-08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T055720Z&X-Amz-Expires=3600&X-Amz-Signature=89b0011f2394231fe18ba12d6f93ab48c4414e0bbd5b60aa0ebd89bd2fba309a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/60bfafee-2cce-4050-88e9-93ee3d6496a7/Screenshot_from_2023-04-22_20-41-08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240628T060431Z&X-Amz-Expires=3600&X-Amz-Signature=dfb3d504b94515a1e0ad643e77ed6953f2aa4b20a503f56257b6d15bba29f162&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Name": "Priyanshu Tiwari",
     "Content": [
@@ -1330,31 +1356,5 @@
     "Content": [
       "I have joined this prestigious NavGurukul team as a Residential Operations Lead. Briefly telling about my past experiences, I have worked with many National and International NGO\u2019s including donor agency (DFID India) of British High Commission in New Delhi.\nI am extremely excited to working with you guys and really look forward to get to know you all. I am based in Delhi-NCR (Noida). I am hoping to meet with everyone soon to have your valuable inputs on various topics that would be helpful for me to understand better what the wider audience expectations and experiences in terms of our Residential Campuses facilities across"
     ]
-  },
-  "d613fa3a-3a4f-4aac-8c72-1b13654dddba": {
-    "Association": null,
-    "Team": null,
-    "Country": "India",
-    "Email": "rajithagumma22@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "https://www.linkedin.com/in/gumma-rajitha/",
-    "Designation": "academic associate internship",
-    "Photo": null,
-    "Twitter": null,
-    "Name": "Gumma Rajitha",
-    "Content": []
-  },
-  "cb2f3794-3049-42a2-82a3-165845853027": {
-    "Association": null,
-    "Team": null,
-    "Country": "India",
-    "Email": "muskanagarwal@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "https://www.linkedin.com/in/muskan-agarwal1/",
-    "Designation": "Program Coordinator, Implementation & Content ",
-    "Photo": null,
-    "Twitter": null,
-    "Name": "Muskan Agarwal",
-    "Content": []
   }
 }
