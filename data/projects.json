@@ -1,56 +1,7 @@
 {
-  "00125dd7-c451-4dde-b9a9-ab8deae3c30e": {
+  "626c011a-3e31-45e3-94b8-c5f9119467a0": {
     "Project Name": [
-      "covid.army"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Active",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": "http://covid.army/",
-    "Value prop": "Aggregated COVID help tweets",
-    "Main people to talk to": null,
-    "Thumbnail": [
-      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/80a68fee-1a7d-4093-a00c-fa5f75184df2/covidarmy_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=e5cd9d4817a2e07d0b49151ab4ed9a2ba7fc3b124e5850cc6fd6fdb857fafa69&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/9285a371-7ed3-4c11-9705-adb8e25620f5/Group_39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=18486f80ec708516f59bb0489a27291bd2c9eaf393784d9f24ccca742c9ff986&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
-    ],
-    "Workstream": "covid.army",
-    "Content": [
-      "GitHub",
-      "Vfirst PR",
-      "\n",
-      "\n",
-      "\n"
-    ]
-  },
-  "190c9a24-6f16-4f0e-a987-c357980e88eb": {
-    "Project Name": [
-      "covid.army"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Active",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": "https://wa.me/917404255034?text=Hi",
-    "Value prop": "All in one COVID Whatsapp Bot",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c1f29340-b3d2-404e-b506-89f269c15cca/IND_Covid_Bot.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=7587bb79e660f2e9bc495e400b7196ec64be00f57ec1c171865f615c077c9bee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "IND Covid Bot",
-    "Content": [
-      "Use the bot by clicking the link above"
-    ]
-  },
-  "1f6927b0-9a07-47ca-9468-115051264363": {
-    "Project Name": [
-      "Edu Hub"
+      "Ava"
     ],
     "Product Specs in detail": null,
     "Catch-ups": null,
@@ -58,15 +9,35 @@
     "Status": "Inactive",
     "Primary Success Metric": null,
     "Category": [
-      "Community",
-      "Resource"
+      "Tech"
     ],
     "Deployed URL": null,
-    "Value prop": "A resource backed community of educators, edupreneurs, parents, progressive students, policy makers, etc to collectively shape the future of Education",
+    "Value prop": "Open source Slack Bot to enable better remote volunteer collaboration, culture, stand ups and team building",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f3c364e5-fd70-4f48-b4d2-c5f27cc51fc6/Group_67.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=f1dfd229550076e18008a55bb0beab39dde604a692dd2796a40fd72214052ef4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "EdLibrary",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/aab101dd-8021-4143-aa79-e4389e63e4cf/Group_61.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=3b74a9af708ecd3b212d68627ee82ff8afee97435101494234400b340d63b112&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Ava Bot",
     "Content": []
+  },
+  "a522ec0b-efcd-4c64-bacd-0862398c0463": {
+    "Project Name": [
+      "Knowledge Knights Podcast"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
+    "Category": [
+      "Content"
+    ],
+    "Deployed URL": null,
+    "Value prop": "Long form podcasts with guests from diverse careers to give people an insight into those career options",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/aa01faa2-e0ac-46fa-9f01-853658fe24cf/Group_66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=d1d00c4d55d20ff59c79cd470a9ec477441ea518b6747638d8a6861354deba1d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Knowledge Knights Podcast",
+    "Content": [
+      "\n"
+    ]
   },
   "21a76247-eaba-4147-98b5-859df8e0580f": {
     "Project Name": [
@@ -83,66 +54,8 @@
     "Deployed URL": null,
     "Value prop": "WIP",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/846ecba0-b0d9-4a8f-b4e2-70586ffc712c/Group_73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=0eff5b237a1b2ca9cb929ee60e07fc3d027d92097329e353ec701010e08c81db&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/846ecba0-b0d9-4a8f-b4e2-70586ffc712c/Group_73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=66025cc289ce9fdbd52fe656bebe7c152cfdc346f259586c7a97f50c0220f317&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "Workstream": "Community Based Learning",
-    "Content": []
-  },
-  "24ee0ee1-a796-4803-bee5-0344aa36482f": {
-    "Project Name": [
-      "catoOS"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech",
-      "Community"
-    ],
-    "Deployed URL": null,
-    "Value prop": "Modular Plug and Play Operating System for Schools to improve their infrastructure, curriculum and learning outcomes",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/51986510-8597-4540-bb1a-7371a6bba734/Group_68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=6ae18636f32214c9d4b09b4821c45039af8e26004d9af21b639054b44a85830a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "CatoOS",
-    "Content": []
-  },
-  "25012fb7-c2cf-4ce7-ad18-3604d14b4b61": {
-    "Project Name": [
-      "ML Lab"
-    ],
-    "Product Specs in detail": "NA",
-    "Catch-ups": null,
-    "UI": "NA",
-    "Status": "Inactive",
-    "Primary Success Metric": "NA",
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": null,
-    "Value prop": "ML research projects",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c0809034-aecd-4d9d-afe4-8997b096c3df/Group_69.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=5f0c1e8e1bc83ab4f252b3c70483abd231473bec7694aee1a2e90f2a2979e535&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "ML Lab",
-    "Content": []
-  },
-  "3164323b-e0ca-40d7-911b-40b8eb4af600": {
-    "Project Name": [
-      "Cato Cast"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Active",
-    "Primary Success Metric": null,
-    "Category": [
-      "Content"
-    ],
-    "Deployed URL": "https://www.youtube.com/channel/UC8BptKSZ5nmvGKOcGyYnykg/featured",
-    "Value prop": "Rethinking Education, One Podcast At A Time",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8af3715-a22e-4fc2-a6ab-7aa421e76099/Frame_130.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=bec01640861c570d0a93ef658e4159c8ab9a6afa8f82abb8c0836f17baaa2f68&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "ignitED Podcast",
     "Content": []
   },
   "519c58b5-67fa-4c30-b063-2aa3c0fce3af": {
@@ -160,111 +73,10 @@
     "Deployed URL": "https://gamifyed.org",
     "Value prop": "Research on gamification, churn out case studies and research, explore how gamification can be incorporated among Cato experiments",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4360b452-3087-4121-93f3-1fb27aade957/logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=40683e9b8dfcdac84b2910f874369e74a39516d810cde24aaa4e147d3cc8e181&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/4360b452-3087-4121-93f3-1fb27aade957/logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=189a1b5ae8ea1ae8e61ff9d0bb6c4df8282d3c343caae30abd1414aff516aab3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "Workstream": "GamifyEd",
     "Content": [
       "\n",
-      "\n"
-    ]
-  },
-  "5b7349d4-6f06-4c04-bfe1-8a4ce1fcfb5d": {
-    "Project Name": [
-      "Cato Paths"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": null,
-    "Value prop": "Employment and Student Upskilling",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f01d416d-994b-433c-b293-33031d5005ad/Group_64.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=1399891658a458995fa80688ca183ae83acd2e6106eee75621112bb813d83833&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Cato Paths",
-    "Content": [
-      "Cato Path",
-      "\n"
-    ]
-  },
-  "626c011a-3e31-45e3-94b8-c5f9119467a0": {
-    "Project Name": [
-      "Ava"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": null,
-    "Value prop": "Open source Slack Bot to enable better remote volunteer collaboration, culture, stand ups and team building",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/aab101dd-8021-4143-aa79-e4389e63e4cf/Group_61.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=774588087d9b42b3bbe01c22c282c8d772c0a9ae4674847a2904ba0a6c589529&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Ava Bot",
-    "Content": []
-  },
-  "7743746e-63e2-4f46-b7bb-e92785411aa8": {
-    "Project Name": [
-      "Cato Community"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Community"
-    ],
-    "Deployed URL": null,
-    "Value prop": "Discord Community to curate content and build user base for all Cato Projects",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e70335a4-f404-459d-a6bb-f0dbb22b5bd3/Group_62_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=dfebc4460a261c41e8d9cf396bf201aa0b44c0e3819e3cc4efee6cde587af41d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Cato Community",
-    "Content": []
-  },
-  "822841c8-b5a1-452b-8509-a126cf76cb27": {
-    "Project Name": [
-      "Venlo"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Under Development",
-    "Primary Success Metric": "Number of open source repos using Venlo",
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": null,
-    "Value prop": "Blockchain protocol to incentivise OSS ecosystem",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b1cb0c2f-f774-40d6-9a67-bbb2d40577ef/venlo_logo_long.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=a155f22d0c1e512937ff002d62a9f98ac593e297b18e70dbf8a5dfc724c031f1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Venlo",
-    "Content": []
-  },
-  "8c4dc933-e30e-4dff-aa5c-6420de2f6ba6": {
-    "Project Name": [
-      "EdMap"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Resource",
-      "Research"
-    ],
-    "Deployed URL": null,
-    "Value prop": null,
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/73655eec-8762-4261-9ad1-a2203fcdbf23/Group_76_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=d18699eb4ece4eb1643ea519d295377f3f4b93d11e326d03074929c4eef57b5d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "EdMap",
-    "Content": [
       "\n"
     ]
   },
@@ -284,8 +96,8 @@
     "Value prop": "The best content on the web, broken into bite sized videos to help you learn important skills",
     "Main people to talk to": null,
     "Thumbnail": [
-      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/260c3ae1-54f6-46ff-bf3b-172951da3417/long_original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=7c47067b7f578af9b5c7d4d1b550b8b3110de0226224b6c319188d50510e7e71&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/fcf0acb7-4e0e-41dd-89e5-f8bb8ada7b5a/Group_57.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=1be027640a85e0eaa47ea6fddae7d0208c2ee1c1e67bbe6420be55ee4c1fce6b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/260c3ae1-54f6-46ff-bf3b-172951da3417/long_original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=c807c36bece10ce1de8f57bf7db1f1a5c8a4356917546f0f046e088498975d79&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/fcf0acb7-4e0e-41dd-89e5-f8bb8ada7b5a/Group_57.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=d5607b7512be1b1039023d95929ea851a3dee65068a149dd7ff60bc4ab0e791e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
     ],
     "Workstream": "cato.tv",
     "Content": [
@@ -296,28 +108,9 @@
       "\n"
     ]
   },
-  "96b58ca4-b60b-44b6-806b-9c6244683ad0": {
+  "7743746e-63e2-4f46-b7bb-e92785411aa8": {
     "Project Name": [
-      "Career Taxi"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": "career.taxi",
-    "Status": "Active",
-    "Primary Success Metric": "Number of careers explored",
-    "Category": [],
-    "Deployed URL": "https://career.taxi/",
-    "Value prop": "Career exploration program run by career counselors",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0dac875e-5f04-4a75-ae6d-d542134b721f/Frame_129.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=772bb367b348eeffea67b8cb6d1a92145223e87cd850f001846e591b8385ec69&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Career Taxi",
-    "Content": [
-      "\n"
-    ]
-  },
-  "a522ec0b-efcd-4c64-bacd-0862398c0463": {
-    "Project Name": [
-      "Knowledge Knights Podcast"
+      "Cato Community"
     ],
     "Product Specs in detail": null,
     "Catch-ups": null,
@@ -325,34 +118,13 @@
     "Status": "Inactive",
     "Primary Success Metric": null,
     "Category": [
-      "Content"
+      "Community"
     ],
     "Deployed URL": null,
-    "Value prop": "Long form podcasts with guests from diverse careers to give people an insight into those career options",
+    "Value prop": "Discord Community to curate content and build user base for all Cato Projects",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/aa01faa2-e0ac-46fa-9f01-853658fe24cf/Group_66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=3b4cf7408ea293c9cba00f35c7ee2ca248ad13d55773782476366c8a6a52cbf8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "Knowledge Knights Podcast",
-    "Content": [
-      "\n"
-    ]
-  },
-  "c6a17649-4b79-40d2-908c-d794f252379c": {
-    "Project Name": [
-      "catoverse.com"
-    ],
-    "Product Specs in detail": null,
-    "Catch-ups": null,
-    "UI": null,
-    "Status": "Inactive",
-    "Primary Success Metric": null,
-    "Category": [
-      "Tech"
-    ],
-    "Deployed URL": null,
-    "Value prop": "A public home for all of Cato's experiments, projects, open source work, research, etc",
-    "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8d01c8e-8e78-49d0-b563-88c4efce5fee/Group_72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=c51653f2e1936d50b882da91141f212fce75b5873d8305dd2ea388e584dd37fb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "catoverse.com",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e70335a4-f404-459d-a6bb-f0dbb22b5bd3/Group_62_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=4df110319f2cf7f3bc33e4c0a8b3b8ea217ce8403c3fcc3de0b27e22faaa7ae7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Cato Community",
     "Content": []
   },
   "ddefbed0-4801-438a-8dcb-c928f068a2c3": {
@@ -370,8 +142,108 @@
     "Deployed URL": null,
     "Value prop": "Connect with other people who have shared interests and create magic with them",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/212871f8-31a1-49c5-8e8b-f91f3012619c/Group_70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=4017aacca70880bf0fa986ed60aa44217959b49f7caf098706510f0553afa22d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/212871f8-31a1-49c5-8e8b-f91f3012619c/Group_70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=0cc84e7d615a57cf1b489f54c8ed4307f06a1605345e411a96ae0f487b03adb5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "Workstream": "cato.club",
+    "Content": [
+      "\n"
+    ]
+  },
+  "1f6927b0-9a07-47ca-9468-115051264363": {
+    "Project Name": [
+      "Edu Hub"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
+    "Category": [
+      "Community",
+      "Resource"
+    ],
+    "Deployed URL": null,
+    "Value prop": "A resource backed community of educators, edupreneurs, parents, progressive students, policy makers, etc to collectively shape the future of Education",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f3c364e5-fd70-4f48-b4d2-c5f27cc51fc6/Group_67.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=2e3400edb58dbe646b8cc7922d6ab0ed49208c7f22e2882b0fc6daa806208aca&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "EdLibrary",
+    "Content": []
+  },
+  "e3fb87cf-2380-4af0-9b8c-bb8470503f60": {
+    "Project Name": [
+      "Tweethire"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": "https://www.figma.com/file/b6naiSJlUBkTZCjZDtMBu3/YellowJobs-team-library",
+    "Status": "Active",
+    "Primary Success Metric": "1. Weekly active users\n2. Number of new hiring posts per week\n",
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": "https://yellowjobs.org",
+    "Value prop": "Auto Curated hiring tweets displayed via a intuitive UX",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b4f5fed1-afc4-4387-adee-ba0f53c04da7/iteration1_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=77c516288b33e2a7aff49009683a36eb036a52a42a7fef99eb7f2d54a5614920&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "yellowjobs.org",
+    "Content": [
+      "\ud83c\udfa8 "
+    ]
+  },
+  "190c9a24-6f16-4f0e-a987-c357980e88eb": {
+    "Project Name": [
+      "covid.army"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Active",
+    "Primary Success Metric": null,
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": "https://wa.me/917404255034?text=Hi",
+    "Value prop": "All in one COVID Whatsapp Bot",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c1f29340-b3d2-404e-b506-89f269c15cca/IND_Covid_Bot.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=d70973469df5cc8f5aa73d86aa4df406d04c531996e460dc329f8a1fecb38618&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "IND Covid Bot",
+    "Content": [
+      "Use the bot by clicking the link above"
+    ]
+  },
+  "25012fb7-c2cf-4ce7-ad18-3604d14b4b61": {
+    "Project Name": [
+      "ML Lab"
+    ],
+    "Product Specs in detail": "NA",
+    "Catch-ups": null,
+    "UI": "NA",
+    "Status": "Inactive",
+    "Primary Success Metric": "NA",
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": null,
+    "Value prop": "ML research projects",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/c0809034-aecd-4d9d-afe4-8997b096c3df/Group_69.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=02edfa4421f5a12832a662c70b36b00a5f73591a493b06febb2a0eb2d2bc66f6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "ML Lab",
+    "Content": []
+  },
+  "96b58ca4-b60b-44b6-806b-9c6244683ad0": {
+    "Project Name": [
+      "Career Taxi"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": "career.taxi",
+    "Status": "Active",
+    "Primary Success Metric": "Number of careers explored",
+    "Category": [],
+    "Deployed URL": "https://career.taxi/",
+    "Value prop": "Career exploration program run by career counselors",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/0dac875e-5f04-4a75-ae6d-d542134b721f/Frame_129.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=db06de9cc115b0fe0178f05f6968bd14b4c0ec17e7f6dd6bfc03ab5409d5c3f1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Career Taxi",
     "Content": [
       "\n"
     ]
@@ -391,31 +263,51 @@
     "Deployed URL": null,
     "Value prop": "Take notes on any kind of content you consume + Spaced repetition helps you remember those notes",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/1e9b65d7-ee41-4079-9487-cb796a488acd/Group_59.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=1af27c3b29b92e85ac61efbc6d43249d908adeecc699c74b1c093491d3b56d80&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/1e9b65d7-ee41-4079-9487-cb796a488acd/Group_59.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=ab4ad0f78190d2267bed39aad7f320625e25a125ece66b666dd021db5aefdee0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "Workstream": "Recap",
     "Content": [
       "\n"
     ]
   },
-  "e3fb87cf-2380-4af0-9b8c-bb8470503f60": {
+  "c6a17649-4b79-40d2-908c-d794f252379c": {
     "Project Name": [
-      "Tweethire"
+      "catoverse.com"
     ],
     "Product Specs in detail": null,
     "Catch-ups": null,
-    "UI": "https://www.figma.com/file/b6naiSJlUBkTZCjZDtMBu3/YellowJobs-team-library",
-    "Status": "Active",
-    "Primary Success Metric": "1. Weekly active users\n2. Number of new hiring posts per week\n",
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
     "Category": [
       "Tech"
     ],
-    "Deployed URL": "https://yellowjobs.org",
-    "Value prop": "Auto Curated hiring tweets displayed via a intuitive UX",
+    "Deployed URL": null,
+    "Value prop": "A public home for all of Cato's experiments, projects, open source work, research, etc",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b4f5fed1-afc4-4387-adee-ba0f53c04da7/iteration1_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=f62f222c28d6fb27083c2399a67578452b36e9b805e594d612cb2eb734cbb9fc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "Workstream": "yellowjobs.org",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8d01c8e-8e78-49d0-b563-88c4efce5fee/Group_72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=e8a274d5baa13104a2ad8cc767cf1888fc4c793a176f2b2063c6b43893517ed7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "catoverse.com",
+    "Content": []
+  },
+  "8c4dc933-e30e-4dff-aa5c-6420de2f6ba6": {
+    "Project Name": [
+      "EdMap"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
+    "Category": [
+      "Resource",
+      "Research"
+    ],
+    "Deployed URL": null,
+    "Value prop": null,
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/73655eec-8762-4261-9ad1-a2203fcdbf23/Group_76_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=881a9dfa922151c2ca3c462eb3b3a8e316a8f905aa129e72f0a57c1e25976db1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "EdMap",
     "Content": [
-      "\ud83c\udfa8 "
+      "\n"
     ]
   },
   "ef0e77fc-31ed-43f1-a7fc-6ecf5c11b7c6": {
@@ -433,10 +325,118 @@
     "Deployed URL": "https://fpt.guide/",
     "Value prop": "Curated curriculum for becoming a first principles thinker",
     "Main people to talk to": null,
-    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8aa671b4-7e68-4c51-a86a-affca2daea23/fptguide_notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TZSBRS3K%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T220950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJHMEUCIBO7Y8TqPnB1%2B1JawXNcTUKNeH3nZrvDwmitAXcCWP6kAiEAyG%2BktdbE0A3noAyF2G0SMtUZmiFwhJiMWJjtgI59Fckq%2FwMIHxAAGgw2Mzc0MjMxODM4MDUiDN7wyUyS6KpSDOrJZircA%2BaSMhj0YR7BIkF2q3QO6bluOBpn%2BN%2B5PJij06jS0adqe8vNNpiBOWJ02sfHF%2F49ZFxqVrLIwqKeFQ8VIYy4Sv4NdPXZ8gZRNiwwtlMO5ThDJROsml2kM%2BDwFPXjw2r25vAFn7zOUJeJ9azP2gE%2BG8mZ1QRFjb2QX%2FOuWhzkdqNRKnurTHYZ8PwnU77AhH8%2B7w3Qixv35IWFY4UXz3M1bHGoVWhqD3FB99OEzWtIrAtqRrPybKEUkag6gwFUHPCvq%2Fqir7PumtuM9fDFHamhIXJ7p8gOd0t7ZyYEOe7QRNyRVzGIbX6%2B051kBAONkDYjEqjXMSW1LQeIQFW7LKuzhj%2BxNul%2BDzAgbcooE6zOcJmBk%2BWWloYzBjd%2BeYJCLUlH7eBnO6FnrWr%2FRtkexKppryYS15djDVde6Wt7smIOGMQ%2BgaliJDfRa67jYm3S5KrX2HPLaJUVkz2UW3Sx5t5cIeAlOMrjuvO7c48oazRKJhHGXlQDcLb1R9FA%2B2veoYjV7I5GTorZufRtLvepcUCacfsC0Vf0BuLuOW5hNYBg9ODFH7GXUzdXQTj%2Bb2nTKwf8GYc2EyDpOz0WT8k5vEHQlx8hGlz4XsjAtzKZ1Xwv7e06D4VeY7R9jMZdIUQ5MMWfidAGOqUBmOpNJS9%2FbXU7hiFv%2BlTs3nYB6%2Boag%2F6hg5hEoUIeatgY93ax8mjs48Mupw1Gw113OD%2Bi8z5cNjQUzs2p%2BK7S1x4p9dvkYcDqestF0obZQWFsBxiY%2FkhmWAU8nN%2FZJCL1otlixPuTgFjWHxsfwGx1DgdG32S6LeR52rz%2BlesgSAoQDi8iuzQHa41s8jIEPtPL9%2Bsv4pgRgIKp%2B8JrgvOx985EGf3Q&X-Amz-Signature=d2f4e93086f07df82414584f6d8bdcf008675ca0862d48ca01509686cd1c1026&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/8aa671b4-7e68-4c51-a86a-affca2daea23/fptguide_notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=9e97f93abaf4f1ca8f2adb1349b1951aaeb257feb467c7c1e89aaf1fe01ba990&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "Workstream": "fpt.guide",
     "Content": [
       "\n"
     ]
+  },
+  "822841c8-b5a1-452b-8509-a126cf76cb27": {
+    "Project Name": [
+      "Venlo"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Under Development",
+    "Primary Success Metric": "Number of open source repos using Venlo",
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": null,
+    "Value prop": "Blockchain protocol to incentivise OSS ecosystem",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/b1cb0c2f-f774-40d6-9a67-bbb2d40577ef/venlo_logo_long.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=73b19e023a5b85877f0c2d0d2a7228d061ffccc14b8469ab58491442d991fe4e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Venlo",
+    "Content": []
+  },
+  "5b7349d4-6f06-4c04-bfe1-8a4ce1fcfb5d": {
+    "Project Name": [
+      "Cato Paths"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": null,
+    "Value prop": "Employment and Student Upskilling",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/f01d416d-994b-433c-b293-33031d5005ad/Group_64.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=123f967aa9c632510d5ed26c2f5b011f71d9571e299dc69948a668648d219d2f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "Cato Paths",
+    "Content": [
+      "Cato Path",
+      "\n"
+    ]
+  },
+  "00125dd7-c451-4dde-b9a9-ab8deae3c30e": {
+    "Project Name": [
+      "covid.army"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Active",
+    "Primary Success Metric": null,
+    "Category": [
+      "Tech"
+    ],
+    "Deployed URL": "http://covid.army/",
+    "Value prop": "Aggregated COVID help tweets",
+    "Main people to talk to": null,
+    "Thumbnail": [
+      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/80a68fee-1a7d-4093-a00c-fa5f75184df2/covidarmy_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=1e64cb0a9ed4df4f90f4e2b511abbfc741bd5da23875056266c0f21ff9de2878&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/9285a371-7ed3-4c11-9705-adb8e25620f5/Group_39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=642bb794256ff008fc54d3d95050594b986f816306d098c94c589df68826a668&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+    ],
+    "Workstream": "covid.army",
+    "Content": [
+      "GitHub",
+      "Vfirst PR",
+      "\n",
+      "\n",
+      "\n"
+    ]
+  },
+  "24ee0ee1-a796-4803-bee5-0344aa36482f": {
+    "Project Name": [
+      "catoOS"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Inactive",
+    "Primary Success Metric": null,
+    "Category": [
+      "Tech",
+      "Community"
+    ],
+    "Deployed URL": null,
+    "Value prop": "Modular Plug and Play Operating System for Schools to improve their infrastructure, curriculum and learning outcomes",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/51986510-8597-4540-bb1a-7371a6bba734/Group_68.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=067e46fc761e325183a78579f7fd0877f1d7458852323ded2f3d10c2e7a96831&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "CatoOS",
+    "Content": []
+  },
+  "3164323b-e0ca-40d7-911b-40b8eb4af600": {
+    "Project Name": [
+      "Cato Cast"
+    ],
+    "Product Specs in detail": null,
+    "Catch-ups": null,
+    "UI": null,
+    "Status": "Active",
+    "Primary Success Metric": null,
+    "Category": [
+      "Content"
+    ],
+    "Deployed URL": "https://www.youtube.com/channel/UC8BptKSZ5nmvGKOcGyYnykg/featured",
+    "Value prop": "Rethinking Education, One Podcast At A Time",
+    "Main people to talk to": null,
+    "Thumbnail": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2303d035-6042-43e9-89d4-890b45490cb4/e8af3715-a22e-4fc2-a6ab-7aa421e76099/Frame_130.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TWXCI5JQ%2F20260511%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260511T223346Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLXdlc3QtMiJGMEQCIBaxuE2BMCs2NjXztiz6NdJjoyfybG%2BQKAZkpX582SEJAiAWqfKyDMEAv5O1jcSTZN%2BtSma3o86CSLgPUlGRwMuCGyr%2FAwgfEAAaDDYzNzQyMzE4MzgwNSIMQ3P4F0cj9Zcj6%2BUSKtwD3RKHiHRXpQcIAbN5L%2FOogT5RNPsjqlA4deK7Hi%2ByZIF1sJSXRdqZTOqx5ZwC3ql0iQd%2B199xQ1HFacH784K1Nd%2FyEKKiw2P3mNZr6u3hMyL%2F8yW9wzHK6UEm3K0at7VY625zb3QwgK8tg6%2BAb2e3aNrfkblKmHYf5qYDS8XXFAqnNlel5eMmRqhQ22Y6UFTIMdyZWKOAmTPLnObGjBX9ml9u3QTpmN5ytXxBor1B9hP2duwrQtAl1apeHyM7JTP1kCdltGIRgfymHBFiVwbddN3sPkJzkQo36A35K2ga7BwgIF5mfTE5xLQ8CLB5c8evsOfYb1Qr5XYBBV%2BJq8BicYLz4GNX8tx2QLxfAuIRVyV%2FDQQSGVgDs%2BEZa5GWW7UQIymu9VP7iQm%2FN48vEPvVmEoL0IjbD3hdz7vBkv743UPLvxpPdiT%2B6v0GbRMSx0R4r%2BgQkjSOsnGMBMS4nbE6aLXOBaezbgIcOA8w7mIb2VE29C5JssxsGTlGpOkUnrtiSw3c2D18zQgaJ3DdelRx50FV39QcMN%2BM1%2BhTRHgjclWwmm2rlnCPNg%2BhJgTQCgxoszbLi0ONEi%2FBraHalVFgQySAi56oXBiar%2Fejxj3tLf%2BnS9vIPiEqM1nkQf0w%2B5SJ0AY6pgFU9Vf3C7O8QIeg7JvZj0N3wXjU%2FcC76ADn17O51SvZek4n%2B8q85ksgOIqk8oBGklGtIM49If2FjSu6amK2N5cZU2NxREDeDxkRV%2BxgwlSsxNUHj%2F%2BScMZDCLsy7AL%2BJ7AjvGkQAdBOUWR977j6Ovvz1z8r%2F2m6LCP%2ByvjFGaXFpLJxlqtACFKnhFx1RQ7kqeA%2B%2B3RTVb4%2BFc4qrlvZEf5UAvC0gU0a&X-Amz-Signature=c10c850bc27a88137e3e5e9f52ec00420877eed9fc332690a019b6e3159917cc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "Workstream": "ignitED Podcast",
+    "Content": []
   }
 }
